@@ -1,10 +1,11 @@
 @extends('layout')
 
-@section('title', 'Contact')
+@section('title', 'about us')
     
+
 @section('content')
 
-<h1>herer we go, contacat</h1>
+<h1>aboout us</h1> 
 
 <p>dskfdsjkldsjkfjsddskjsdlkdskdkkfjsf</p>
             {{-- <ul>
@@ -15,9 +16,3 @@
 
     
 @endsection
-
-
-
-
-
-    

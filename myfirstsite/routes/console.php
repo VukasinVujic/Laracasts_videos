@@ -16,3 +16,8 @@ use Illuminate\Foundation\Inspiring;
 Artisan::command('inspire', function () {
     $this->comment(Inspiring::quote());
 })->describe('Display an inspiring quote');
+
+
+Artisan::command('teranjeCirkusa', function(){
+    $this->comment("Cola tera MEGA cirkus");
+})->describe("Ma sta me SAKATIS");
